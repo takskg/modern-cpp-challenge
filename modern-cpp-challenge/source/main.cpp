@@ -1,6 +1,6 @@
 #include "challenges/Challenge.h"
 
-int main()
+int main(int argc, char* argv[])
 {
-	return 0;
+	return Challenge1().run(argc, argv);
 }
