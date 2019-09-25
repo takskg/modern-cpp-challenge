@@ -1,4 +1,4 @@
-#include "challenges/Challenge.h"
+﻿#include "challenges/Challenge.h"
 
 int main(int argc, char* argv[])
 {

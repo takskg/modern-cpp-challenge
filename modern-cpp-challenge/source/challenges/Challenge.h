@@ -1,7 +1,7 @@
-#ifndef __CHALLENGE_H__
+ï»¿#ifndef __CHALLENGE_H__
 #define __CHALLENGE_H__
 
-//‚æ‚­g‚¤Œ^‚ğ’è‹`
+//ã‚ˆãä½¿ã†å‹ã‚’å®šç¾©
 typedef signed char s8;
 typedef signed short s16;
 typedef signed int s32;
@@ -24,7 +24,7 @@ static_assert(sizeof(size) == 8);
 
 
 //----------------------
-//1Í
+//1ç« 
 //----------------------
 class Challenge1
 {

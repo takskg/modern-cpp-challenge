@@ -1,17 +1,17 @@
-#include "challenges/Challenge.h"
+ï»¿#include "challenges/Challenge.h"
 #include <iostream>
 
 
 /*
-	3‚Ü‚½‚Í5‚ÅŠ„‚èØ‚ê‚é³‚Ì”‚Ì‘˜a
+	3ã¾ãŸã¯5ã§å‰²ã‚Šåˆ‡ã‚Œã‚‹æ­£ã®æ•°ã®ç·å’Œ
 
-	—^‚¦‚ç‚ê‚½ãŒÀ‚Ü‚Å‚Ì‚R‚Ü‚½‚Í‚T‚ÅŠ„‚èØ‚ê‚é³‚Ì”‚Ì‘˜a‚ğŒvZ‚µ‚Äo—Í‚·‚éƒvƒƒOƒ‰ƒ€‚ğ‘‚«‚È‚³‚¢B
+	ä¸ãˆã‚‰ã‚ŒãŸä¸Šé™ã¾ã§ã®ï¼“ã¾ãŸã¯ï¼•ã§å‰²ã‚Šåˆ‡ã‚Œã‚‹æ­£ã®æ•°ã®ç·å’Œã‚’è¨ˆç®—ã—ã¦å‡ºåŠ›ã™ã‚‹ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã‚’æ›¸ããªã•ã„ã€‚
 */
 int Challenge1::run(int argc, char* argv[])
 {
 	int retval = 0;
 
-	std::cout << "Å‘å”‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢" << std::endl;
+	std::cout << "æœ€å¤§æ•°ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„" << std::endl;
 
 	u64 maxValue;
 	std::cin >> maxValue;
@@ -25,7 +25,7 @@ int Challenge1::run(int argc, char* argv[])
 		}
 	}
 
-	std::cout << "‘˜a‚Í " << resultValue << " ‚Å‚·";
+	std::cout << "ç·å’Œã¯ " << resultValue << " ã§ã™";
 
 	return retval;
 }
