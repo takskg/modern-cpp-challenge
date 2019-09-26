@@ -16,6 +16,9 @@
     <ClCompile Include="source\challenges\Challenge1.cpp">
       <Filter>source\challenges</Filter>
     </ClCompile>
+    <ClCompile Include="source\challenges\Challenge2.cpp">
+      <Filter>source\challenges</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="source\challenges\Challenge.h">
