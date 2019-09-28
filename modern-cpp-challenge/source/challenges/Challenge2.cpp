@@ -1,6 +1,7 @@
 ﻿#include "challenges/Challenge.h"
 #include <iostream>
 #include <algorithm>
+#include <numeric>
 
 
 
@@ -40,7 +41,8 @@ int Challenge2::run(int argc, char* argv[])
 	u64 gcdVal = 0;
 	if (val1 != 0 || val2 != 0)
 	{
-		gcdVal = CalcGetGcd(std::max(val1, val2), std::min(val1, val2));
+		//gcdVal = CalcGetGcd(std::max(val1, val2), std::min(val1, val2));
+		gcdVal = std::gcd(std::max(val1, val2), std::min(val1, val2));
 	}
 	else {
 		//どちらかが0なら最大公約数は0
