@@ -19,6 +19,42 @@
     <ClCompile Include="source\challenges\Challenge2.cpp">
       <Filter>source\challenges</Filter>
     </ClCompile>
+    <ClCompile Include="source\challenges\Challenge3.cpp">
+      <Filter>source\challenges</Filter>
+    </ClCompile>
+    <ClCompile Include="source\challenges\Challenge4.cpp">
+      <Filter>source\challenges</Filter>
+    </ClCompile>
+    <ClCompile Include="source\challenges\Challenge5.cpp">
+      <Filter>source\challenges</Filter>
+    </ClCompile>
+    <ClCompile Include="source\challenges\Challenge6.cpp">
+      <Filter>source\challenges</Filter>
+    </ClCompile>
+    <ClCompile Include="source\challenges\Challenge7.cpp">
+      <Filter>source\challenges</Filter>
+    </ClCompile>
+    <ClCompile Include="source\challenges\Challenge8.cpp">
+      <Filter>source\challenges</Filter>
+    </ClCompile>
+    <ClCompile Include="source\challenges\Challenge9.cpp">
+      <Filter>source\challenges</Filter>
+    </ClCompile>
+    <ClCompile Include="source\challenges\Challenge10.cpp">
+      <Filter>source\challenges</Filter>
+    </ClCompile>
+    <ClCompile Include="source\challenges\Challenge11.cpp">
+      <Filter>source\challenges</Filter>
+    </ClCompile>
+    <ClCompile Include="source\challenges\Challenge12.cpp">
+      <Filter>source\challenges</Filter>
+    </ClCompile>
+    <ClCompile Include="source\challenges\Challenge13.cpp">
+      <Filter>source\challenges</Filter>
+    </ClCompile>
+    <ClCompile Include="source\challenges\Challenge14.cpp">
+      <Filter>source\challenges</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="source\challenges\Challenge.h">

@@ -78,7 +78,19 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="source\challenges\Challenge1.cpp" />
+    <ClCompile Include="source\challenges\Challenge10.cpp" />
+    <ClCompile Include="source\challenges\Challenge11.cpp" />
+    <ClCompile Include="source\challenges\Challenge12.cpp" />
+    <ClCompile Include="source\challenges\Challenge13.cpp" />
+    <ClCompile Include="source\challenges\Challenge14.cpp" />
     <ClCompile Include="source\challenges\Challenge2.cpp" />
+    <ClCompile Include="source\challenges\Challenge8.cpp" />
+    <ClCompile Include="source\challenges\Challenge3.cpp" />
+    <ClCompile Include="source\challenges\Challenge4.cpp" />
+    <ClCompile Include="source\challenges\Challenge5.cpp" />
+    <ClCompile Include="source\challenges\Challenge6.cpp" />
+    <ClCompile Include="source\challenges\Challenge7.cpp" />
+    <ClCompile Include="source\challenges\Challenge9.cpp" />
     <ClCompile Include="source\main.cpp" />
   </ItemGroup>
   <ItemGroup>
